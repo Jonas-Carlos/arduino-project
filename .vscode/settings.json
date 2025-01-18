@@ -1,0 +1,7 @@
+{
+    "arduino.path": "C:/arduino-ide_nightly-20241212_Windows_64bit",
+    "arduino.defaultBaudRate": 9600,
+    "arduino.board": "arduino:avr:uno",
+    "arduino.useArduinoCli": false
+  }
+  
